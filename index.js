@@ -38,3 +38,5 @@ function meetAutoReactions() {
 const meet = meetAutoReactions();
 
 meet.startReacting(0);
+
+// Ну, выглядит весьма компактно, получше чем у меня!  Спасибо! Я понял.
